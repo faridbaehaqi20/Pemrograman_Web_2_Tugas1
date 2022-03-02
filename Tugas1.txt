@@ -1,0 +1,15 @@
+C:\Users\Windows 10>cd ..
+
+C:\Users>cd ..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>cd wp2
+
+C:\xampp\htdocs\wp2>php Tugas1.php
+Nama: Muhammad Farid Baehaqi
+Nim: 20090108
+Kelas: 4A
+C:\xampp\htdocs\wp2>
